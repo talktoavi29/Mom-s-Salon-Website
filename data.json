@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "title": "Threading",
+      "items": [
+        { "name": "Eyebrow", "price": "$5" },
+        { "name": "Upper Lip", "price": "$2" },
+        { "name": "Chin", "price": "$3" },
+        { "name": "Sideburn", "price": "$6" },
+        { "name": "Forehead", "price": "$3" },
+        { "name": "Full Face", "price": "$18" },
+        { "name": "Neck", "price": "$4" },
+        { "name": "Eyebrow Tinting", "price": "$10" }
+      ]
+    },
+    {
+      "title": "Facials",
+      "items": [
+        { "name": "Herbal Facial", "price": "$30" },
+        { "name": "Fruit Facial", "price": "$30" },
+        { "name": "Saffron Facial", "price": "$30" },
+        { "name": "Acne Facial", "price": "$35" },
+        { "name": "Express Facial", "price": "$25" },
+        { "name": "Gold Facial", "price": "$40" },
+        { "name": "Diamond Facial", "price": "$40" },
+        { "name": "Pearl Facial", "price": "$40" }
+      ]
+    },
+    {
+      "title": "Hair Care",
+      "items": [
+        { "name": "Hair Straight Cut", "price": "$10+" },
+        { "name": "U-Cut", "price": "$15+" },
+        { "name": "V-Cut", "price": "$20+" },
+        { "name": "Layer Cut", "price": "$25+" },
+        { "name": "Women's Haircut", "price": "$25+" },
+        { "name": "Men's Haircut", "price": "$15+" },
+        { "name": "Men's Color & Cut", "price": "$35+" },
+        { "name": "Girls' Haircut (under 10)", "price": "$15" },
+        { "name": "Boys' Haircut (under 10)", "price": "$12" },
+        { "name": "Women's Full Hair Color", "price": "$35+" },
+        { "name": "Root Touch-Up", "price": "$30+" },
+        { "name": "Full Highlights", "price": "$120+" },
+        { "name": "Partial Highlights", "price": "$80+" },
+        { "name": "Deep Conditioning", "price": "$25+" },
+        { "name": "Henna for Hair", "price": "$30+" },
+        { "name": "Keratin Treatment", "price": "$150+" },
+        { "name": "Oil Massage", "price": "$15+" },
+        { "name": "Full Body Massage", "price": "$70" },
+        { "name": "Hair Ironing", "price": "$25+" },
+        { "name": "Hair Curling", "price": "$25+" },
+        { "name": "Blow Dry", "price": "$25+" },
+        { "name": "Hair Styling", "price": "$35+" }
+      ]
+    },
+    {
+      "title": "Waxing",
+      "items": [
+        { "name": "Eyebrow", "price": "$6" },
+        { "name": "Upper Lip", "price": "$3" },
+        { "name": "Chin", "price": "$4" },
+        { "name": "Sideburn", "price": "$7" },
+        { "name": "Forehead", "price": "$4" },
+        { "name": "Full Face", "price": "$23" },
+        { "name": "Neck", "price": "$5" },
+        { "name": "Nose", "price": "$5" },
+        { "name": "Underarms", "price": "$5" },
+        { "name": "Half Arms", "price": "$15+" },
+        { "name": "Full Arms", "price": "$20+" },
+        { "name": "Half Legs", "price": "$15+" },
+        { "name": "Full Legs", "price": "$25+" },
+        { "name": "Full Back", "price": "$18+" },
+        { "name": "Full Stomach", "price": "$12+" },
+        { "name": "Bikini Line", "price": "$20+" },
+        { "name": "Full Brazilian", "price": "$30+" },
+        { "name": "Full Body Wax", "price": "$80" }
+      ]
+    },
+    {
+      "title": "Manicure & Pedicure",
+      "items": [
+        { "name": "Manicure", "price": "$15" },
+        { "name": "Pedicure", "price": "$25" },
+        { "name": "Gel Polish", "price": "$5" },
+        { "name": "Spa Manicure/Pedicure", "price": "$50" }
+      ]
+    },
+    {
+      "title": "Makeup Services",
+      "items": [
+        { "name": "Light Makeup", "price": "$30" },
+        { "name": "Party Makeup", "price": "$40" },
+        { "name": "Photo Shoot Makeup", "price": "$60" },
+        { "name": "Bridal Makeup", "price": "$100+" },
+        { "name": "Saree Draping", "price": "$20+" },
+        { "name": "Henna Tattoo", "price": "$15+" }
+      ]
+    }
+  ]
+}
