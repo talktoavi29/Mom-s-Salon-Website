@@ -82,7 +82,7 @@
         { "name": "Manicure", "price": "$15" },
         { "name": "Pedicure", "price": "$25" },
         { "name": "Gel Polish", "price": "$5" },
-        { "name": "Spa Manicure/Pedicure", "price": "$50" }
+        { "name": "Nail Extension", "price": "$50" }
       ]
     },
     {
